@@ -1,12 +1,10 @@
 # contribute-Crowd2Map
-Contribute to Crowd2Map Tanzania for more details visit www.crowd2map.org
-# Crowd2Map Tanzania
+# [Crowd2Map Tanzania](www.crowd2map.org)
 
-**Mapping rural Tanzania to help end Female Genital Mutilation and empower rural communities to develop their resources**
- 
- 
+**Mapping rural Tanzania to help end Female Genital Mutilation and empower communities to develop their neighbourhoods**
+  
 ## Welcome! 
-Our day just got better. Thank you for visiting Crowd2Map repository, it’s our pleasure to have you here. :)
+Thank you for visiting Crowd2Map repository, it’s our pleasure to have you here. :)
 
 If you are a someone who love to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
 
