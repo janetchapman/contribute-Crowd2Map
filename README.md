@@ -1,8 +1,8 @@
 # contribute-Crowd2Map
 Contribute to Crowd2Map Tanzania for more details visit www.crowd2map.org
-# GirlScript
+# Crowd2Map Tanzania
 
-**Promoting diversity and inclusion in tech by supporting women and bringing opportunities to one platform**
+**Mapping rural Tanzania to help end Female Genital Mutilation and empower rural communities to develop their resources**
  
  
 ## Welcome! 
@@ -20,9 +20,9 @@ If you are a someone who love to help people, who is techie, full of ideas and r
 * [Contact Us](#contact-us)
 
 ## Introduction
-GirlScript is a project being developed under the [Mozilla Leadership Training Program, 2017](https://mozilla.teachable.com/p/mozilla-open-leadership-training-series) and mentored by [Kristie Whitaker.](https://github.com/KirstieJane)
+Crowd2Map is a project being mentored under the [Mozilla Leadership Training Program, 2017](https://mozilla.teachable.com/p/mozilla-open-leadership-training-series) and mentored by [Anubha Maneshwar](https://github.com/girlscript)
 
-The project is designed to help map rural Tanzania. As the name indicates, it helps women to learn and improve their technical skiltells them about different opportunities available for them in the world outside. Through this project, we want to develop an online platform for GirlScript, our offline trainings have already begun in 3 cities of India.
+Crowd2Map Tanzania is a crowdsourced mapping project aiming to put rural Tanzania on the map. Since we launched at Mozfest2015, we have been adding schools, hospitals, roads, buildings and villages to OpenStreetMap (https://www.openstreetmap.org/), an open source map available to all, with the help of over 5000 volunteers worldwide and 200 on the ground in Tanzania.  With minimal budget and no staff we have so far added over 2 million buildings and trained community mappers in 23 areas of Tanzania.  We have also been featured on Al Jazeera, The Guardian and Missing Maps.  We have also set up a Youthmappers Chapter at the Institute of Rural Development and Planning in Mwanza and Dodoma.
 
 ## Why does this project exist?
 - Lack of diversity in field of tech
