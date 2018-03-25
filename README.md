@@ -22,33 +22,21 @@ If you are a someone who love to help people, who is techie, full of ideas and r
 ## Introduction
 Crowd2Map is a project being mentored under the [Mozilla Leadership Training Program, 2017](https://mozilla.teachable.com/p/mozilla-open-leadership-training-series) and mentored by [Anubha Maneshwar](https://github.com/girlscript)
 
-Crowd2Map Tanzania is a crowdsourced mapping project aiming to put rural Tanzania on the map. Since we launched at Mozfest2015, we have been adding schools, hospitals, roads, buildings and villages to OpenStreetMap (https://www.openstreetmap.org/), an open source map available to all, with the help of over 5000 volunteers worldwide and 200 on the ground in Tanzania.  With minimal budget and no staff we have so far added over 2 million buildings and trained community mappers in 23 areas of Tanzania.  We have also been featured on Al Jazeera, The Guardian and Missing Maps.  We have also set up a Youthmappers Chapter at the Institute of Rural Development and Planning in Mwanza and Dodoma.
+Crowd2Map Tanzania is a crowdsourced mapping project aiming to put rural Tanzania on the map. Since we launched at Mozfest2015, we have been adding schools, hospitals, roads, buildings and villages to [OpenStreetMap](https://www.openstreetmap.org/), an open source map available to all, with the help of over 5000 volunteers worldwide and 200 on the ground in Tanzania.  With minimal budget and no staff we have so far added over 2 million buildings and trained community mappers in 23 areas of Tanzania.  We have also been featured on Al Jazeera, The Guardian and Missing Maps.  We have also set up a Youthmappers Chapter at the Institute of Rural Development and Planning in Mwanza and Dodoma.
 
 ## Why does this project exist?
-- Lack of diversity in field of tech
-- Lack of skills in people specially women
-- Lack of awareness about different opportunities available
-- To reduce noise prensence on the internet and help those who really want to learn and get inspired by others
+- Rural Tanzania is unmapped, even villages of 10,000 people may not exist on any map.
+- FGM and other activists do not have maps of their areas which hampers their work protecting girls.
+- Local Officials do not have access to maps of their areas, hampering development
+- We are empowering local communities to develop the skills to make their communities visible and collect the data they need to develop their districts 
 
-## What we plan to do about it?
-- To conduct offline workshops by establishing GirlScript chapters in different cities of India
-- To create an online platform for helping international students providing different courses and a chatroom 
-- Send newsletter to all the subscribed users to make them aware about different opportunities
-- Create a technical blog section and get inspired section for interviews
+## What we are doing about it?
+- For the last 2 and a half years we have recruited over 5500 online volunteers mapping from satellite images 
+- Set up YouthMapper Chapters at the 2 branches of the Institute of Rural Development Planning in Tanzania
+- Trained 26 community mapping groups across rural Tanzania
 
-## How are we doing it?
-As we have started our offline events successfully but we want to grow and create an impact which would only be possible by creating a website. A website that can have home, about us, get inspired and a blog page. Also, there should be a sign up option before we allow users to gain access to free course content section on the website. Also, guidlines for being a volunteer.
-- Have a databse of people who have already registered
-- Subscribe option for newsletters and a map showing our current location of 3 cities in which are already working.
-- A blog page and a get inspired page for writing blogs and interviews respectively.
-- Have a chatroom for any queries.
-If you don't wish to help in developing a website and want to help in some other way then please donate some technical course contents for the website.
-- The course contents must be self-created or if you have taken help from somewhere then kindly mention it.
-- We will write your name and link to any social media platforms if you contribute for our project.
-- The course can be anything which a begineer in tech must start from. For exaample, you can create a course on HTML5, CSS3, Python or anything which you feel people should know about.
-- It can be a brief course like a summary, highlighting the main points. Also, the language should be easy to understand.
-Also, if you have any ideas likes games abd activities that we should include in our offline workshops then please let us know.
-- Thme or activity must be based on a technical topic and must teach anything related to it. For example, making use of HTML boxes for learning HTML.
+## What do we want to do next?
+- We want every village in rural Tanzania that wants one to have access to a map showing the resources that are important to them
 
 ## Contribution
 We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
