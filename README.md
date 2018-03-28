@@ -36,8 +36,7 @@ Crowd2Map is a project being mentored under the [Mozilla Leadership Training Pro
 - We want every village in rural Tanzania that wants one to have access to a map showing the resources that are important to them and has the opportunity to work with global volunteers to develop relevant GIS and research skills.
 
 ## Contribution
-We need help to see our vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
-If you’re interested in the project, feel free to open an issue, create a PR, or just come say hi and tell us more about yourself [here.](https://github.com/janetchapman/contribute-Crowd2Map/issues/1) 
+If you are interested in contributing please refer to [here](CONTRIBUTING.md) 
 
 ## Participation Guidelines
 We are following Mozilla Community Participation Guidelines, please have a look at it [here.](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
