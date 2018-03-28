@@ -1,4 +1,3 @@
-# contribute-Crowd2Map
 # [Crowd2Map Tanzania](www.crowd2map.org)
 
 **Mapping rural Tanzania to help end Female Genital Mutilation and empower communities to develop their neighbourhoods**
