@@ -3,9 +3,9 @@
 **Mapping rural Tanzania to help end Female Genital Mutilation and empower communities to develop their neighbourhoods**
   
 ## Welcome! 
-Thank you for visiting Crowd2Map repository, it’s our pleasure to have you here. :)
+Thank you for visiting Crowd2Map repository :)
 
-If you are a someone who love to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
+If you are a someone who loves to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at the right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
 
 * [Introduction](#introduction)
 * [Why does this project exist?](#why-does-this-project-exist)
