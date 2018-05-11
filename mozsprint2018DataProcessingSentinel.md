@@ -1,6 +1,6 @@
 # Suggested workflow for using satellite data to classify objects for mapping
 
-## Mozfest 2018 
+## Mozsprint 2018 
 
 ### Hosted in University of Manchester, Allan Turning building by Rachael Ainsworth
 
