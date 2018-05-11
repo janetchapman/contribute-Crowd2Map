@@ -19,13 +19,13 @@ This is written for individuals confindent and compitent in Machine Learning tec
 
 ### Document Goal
 
-After reading into the context and scope of the Crowd2Map project we found that with the time and human constraits we are under, the best way for us to contribute would be to create a set of recommendations for how in the future contributors can automate mapping by using a combination of satalite and data processing technologies.
+After reading into the context and scope of the Crowd2Map project we found that with the time and human constraits we are under, the best way for us to contribute would be to create a set of recommendations for how in the future contributors can automate mapping by using a combination of satallite and data processing technologies.
 
 Below is a proposed workflow of what data should be collected, from where, how to train a K-means algorithm on it and what this proposed solution will deliver. Finally there is further information on how this process has worked in practise on a map of Peurto Rico.
 
 It is our recommendation that this good first step step in starting to automate the mapping process, we also are consious to note that we believe that the human and community interaction provided by the on-the-ground mappers is invaluable - how this will change in the future due to automation we don't know, that's up to you!
 
-It is also our opinion that the human-validated data is not the optimal source of data to use to draw your map from, given the varied and abundant data taken from satalites, used with both supervised and unsupervised ML algorithms will produce a more reliable map.
+It is also our opinion that the human-validated data is not the optimal source of data to use to draw your map from, given the varied and abundant data taken from satallites, used with both supervised and unsupervised ML algorithms will produce a more reliable map.
 
 ## Workflow option 1
 
@@ -75,7 +75,7 @@ Perhaps the biggest challenge with respect to the segmentation problem, is quant
  No time to explain, but this paper is also interesting Image Segmentation [U-Net: Convolutional Networks for Biomedical, Olaf Ronneberger, Philipp Fischer, and Thomas Brox](https://arxiv.org/pdf/1505.04597.pdf), and is talked about [here](https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/ ). Suggested course - based on the paper linked above, I would recommend following up on the U-Net model, originally written for biomedical imaging. 
 
 
-### Pre-existing software for gathering satalite data
+### Pre-existing software for gathering satallite data
 
 Using what exists already will help the project run lean.
 
@@ -85,7 +85,7 @@ Using what exists already will help the project run lean.
 
 ### Working example  
 
-This example project from Therese and Joe automatically identifying areas of water / ground in Puerto Rico uses  image segmentation and K-means clustering and data taken from Sentinel satali.
+This example project from Therese and Joe automatically identifying areas of water / ground in Puerto Rico uses  image segmentation and K-means clustering and data taken from Sentinel satallite.
 
 *Authors*
 
