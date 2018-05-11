@@ -19,7 +19,7 @@ This is written for individuals confindent and compitent in Machine Learning tec
 
 ### Document Goal
 
-After reading into the context and scope of the Crowd2Map project we found that with the time and human constraits we are under, the best way for us to contribute would be to create a set of recommendations for how in the future contributors can automate mapping by using a combination of satallite and data processing technologies.
+After reading into the context and scope of the Crowd2Map project we found that with the time and human constraints we are under, the best way for us to contribute would be to create a set of recommendations for how in the future contributors can automate mapping by using a combination of satallite and data processing technologies.
 
 Below is a proposed workflow of what data should be collected, from where, how to train a K-means algorithm on it and what this proposed solution will deliver. Finally there is further information on how this process has worked in practise on a map of Peurto Rico.
 
