@@ -1,6 +1,6 @@
-#Suggested workflow for using sentinel satellite data to classify objects for mapping
+# Suggested workflow for using sentinel satellite data to classify objects for mapping
 
-##Mozfest 2018 
+## Mozfest 2018 
 
 ###Hosted in University of Manchester, Allan Turning building by Rachael Ainsworth
 
