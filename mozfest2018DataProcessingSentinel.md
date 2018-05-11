@@ -2,22 +2,22 @@
 
 ## Mozfest 2018 
 
-###Hosted in University of Manchester, Allan Turning building by Rachael Ainsworth
+### Hosted in University of Manchester, Allan Turning building by Rachael Ainsworth
 
 *Contrubutors*
 
-*Sophie Ashcroft - ms.sophie.ashcroft@gmail.com
-*Rohini Joshi - rohini.joshi@manchester.ac.uk
-*Elliott Polzin - elliott.polzin3@gmail.com
-*Robert Lyon - robert.lyon@manchester.ac.uk
-*Therese Cantwell - therese.cantwell@manchester.ac.uk
-*Joe Fennell - joseph.fennell@manchester.ac.uk
+* Sophie Ashcroft - ms.sophie.ashcroft@gmail.com
+* Rohini Joshi - rohini.joshi@manchester.ac.uk
+* Elliott Polzin - elliott.polzin3@gmail.com
+* Robert Lyon - robert.lyon@manchester.ac.uk
+* Therese Cantwell - therese.cantwell@manchester.ac.uk
+* Joe Fennell - joseph.fennell@manchester.ac.uk
 
 *Document target user*
 
 This is written for individuals confindent and compitent in Machine Learning technologies and systems.
 
-###Document Goal
+### Document Goal
 
 >After reading into the context and scope of the Crowd2Map project we found that with the time and human constraits we are under, the best way for us to contribute would be to create a set of recommendations for how in the future contributors can automate mapping by using a combination of satalite and data processing technologies.
 
@@ -27,7 +27,7 @@ This is written for individuals confindent and compitent in Machine Learning tec
 
 >It is also our opinion that the human-validated data is not the optimal source of data to use to draw your map from, given the varied and abundant data taken from satalites, used with both supervised and unsupervised ML algorithms will produce a more reliable map.
 
-##Workflow option 1
+## Workflow option 1
 
 *Goal*
 
@@ -67,7 +67,7 @@ Google API’s should probably be explored as a potential source of relevant dat
   * Apply resulting model to other image areas that require classification - This should identify Regions Of Interest (ROI) that can be used for easier / quicker manual classification
 
 
-###Machine learning challenge
+### Machine learning challenge
 
 *Core machine learning challenge*
 
@@ -79,22 +79,22 @@ Perhaps the biggest challenge with respect to the segmentation problem, is quant
  No time to explain, but this paper is also interesting Image Segmentation [U-Net: Convolutional Networks for Biomedical, Olaf Ronneberger, Philipp Fischer, and Thomas Brox](https://arxiv.org/pdf/1505.04597.pdf), and is talked about [here](https://blog.deepsense.ai/deep-learning-for-satellite-imagery-via-image-segmentation/ ). Suggested course - based on the paper linked above, I would recommend following up on the U-Net model, originally written for biomedical imaging. 
 
 
-###Pre-existing software for gathering satalite data
+### Pre-existing software for gathering satalite data
 
 Using what exists already will help the project run lean.
 
-*[Google Earth Engine](https://earthengine.google.com/)
-*[IBM pairs](https://ibmpairs.mybluemix.net/)
+* [Google Earth Engine](https://earthengine.google.com/)
+* [IBM pairs](https://ibmpairs.mybluemix.net/)
 
 
-###Working example  
+### Working example  
 
 This example project from Therese and Joe automatically identifying areas of water / ground in Puerto Rico uses  image segmentation and K-means clustering and data taken from Sentinel satali.
 
 *Authors*
 
-*Therese Cantwell 
-*Joe Fennell
+* Therese Cantwell   
+* Joe Fennell
 
 *Example repos*
 
@@ -109,7 +109,7 @@ For more information on K-means algorithms and how to use them can be found with
 
 https://www.coursera.org/learn/machine-learning
 
-###Questions for the future
+### Questions for the future
 
 *Is there an API to work with the manually validated data?
 *How do we download the validated data already collected from Crowd2Map?
