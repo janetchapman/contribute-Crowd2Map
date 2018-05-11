@@ -39,14 +39,10 @@ Please beer in mind that this may not be complete
 
 1. Download Sentinel or Crowd2Map data
   * http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2 - provides information on the type of data Sentinel collects.
-  *  https://github.com/Fernerkundung/awesome-sentinel - provides information on how best to work with Sentinel. A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites
-  * [  - provides information on how to download Sentinel data.
+  *  https://github.com/Fernerkundung/awesome-sentinel - provides information on how best to work with Sentinel. A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
   * It is unclear on how to download validated Crowd2Map data.
   * What Sentinel data is nedded - for this you need a description from an astronomer/domain expert, explaining it to whomever is doing the ML work (e.g. what is polarisation, why is it important, what is the difference between optical/infrared data). This will save a lot of time. Will also allows an expert to choose appropriate methods.
-
-* *Python script for reading in Sentinel files*
-
-[Classes for reading in sentinel files from the .SAFE format and outputting as
+  * *Python script for reading in Sentinel files* - [Classes for reading in sentinel files from the .SAFE format and outputting as
 np arrays.](https://bitbucket.org/joe-fennell/sentinelpy_v1/src/master/) by Joe Fennell
 
 2. Pre-process the data
@@ -103,11 +99,11 @@ https://github.com/joe-fennell/hacknight_1
 
 This example tutorial from Therese and Joe  automatically identifying areas of water / ground in Puerto Ricouses a lot of similar techniques needed to those listed above.
 
-*Futher reading*
 
-For more information on K-means algorithms and how to use them can be found within the above online course from Coursera.
+### Futher reading
 
-https://www.coursera.org/learn/machine-learning
+For more information on K-means algorithms and how to use them can be found within the above online course from [Coursera.](https://www.coursera.org/learn/machine-learning)
+
 
 ### Questions for the future
 
@@ -115,4 +111,4 @@ https://www.coursera.org/learn/machine-learning
 *How do we download the validated data already collected from Crowd2Map?
 *And / or could we work with Google Maps data to cross-check the automatic classifications?
 
-Thanks for reading! Happy classifying :crystal_ball:
+### Thanks for reading! Happy classifying :crystal_ball:
