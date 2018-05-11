@@ -1,4 +1,4 @@
-# Suggested workflow for using sentinel satellite data to classify objects for mapping
+# Suggested workflow for using satellite data to classify objects for mapping
 
 ## Mozfest 2018 
 
