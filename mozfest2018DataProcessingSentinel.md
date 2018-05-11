@@ -107,8 +107,8 @@ For more information on K-means algorithms and how to use them can be found with
 
 ### Questions for the future
 
-*Is there an API to work with the manually validated data?
-*How do we download the validated data already collected from Crowd2Map?
-*And / or could we work with Google Maps data to cross-check the automatic classifications?
+* Is there an API to work with the manually validated data?
+* How do we download the validated data already collected from Crowd2Map?
+* And / or could we work with Google Maps data to cross-check the automatic classifications?
 
 ### Thanks for reading! Happy classifying :crystal_ball:
